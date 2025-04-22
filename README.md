@@ -1,14 +1,13 @@
-# Performance Audit 
-
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
-
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
-
-
 ## Mijn DDA Website
 
 Dit is een website die ik zelf gemaakt heb aan de hand van de designs die ik gekregen heb van de opdrachtgever van DDA. Ik heb voorlopig de overzichtspagina van leden van de agency en de detail pagina van deze leden van de agency gemaakt. 
+
+Live link: https://user-experience-enhanced-website-m6o9.onrender.com
+
 <img width="1512" alt="Scherm­afbeelding 2025-04-22 om 10 17 13" src="https://github.com/user-attachments/assets/a3bd7fab-4061-4935-96c7-aeda84a8a440" />
+
+# Performance Audit Test
+Link naar lighthouse test: 
 
 
 
